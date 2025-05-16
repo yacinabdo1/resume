@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    line-height: 1.6;
+}
+
+#header{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+#nav{
+    background-color: #444;
+    text-align: center;
+}
+
+#nav a{
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+section{
+    margin: auto ;
+    margin-top: 10px;
+    padding: 20px;
+    background-color: white;
+    max-width: 900px;
+}
+
+#copyright{
+    text-align: center;
+    font-size: 0.9em;
+    background-color: unset;
+}
